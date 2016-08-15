@@ -7,7 +7,7 @@ print("My Name :", derekDict["fName"])
 
 derekDict["address"] = "215 North St"
 
-derekDict["city"] = "Pittsburg"
+derekDict["city"] = "Pittsburgh"
 
 print("Is there a city: ", "city" in derekDict)
 
@@ -102,3 +102,5 @@ def fibonacci(num):
 
 for i in range(10):
     print(fibonacci(i))
+
+
